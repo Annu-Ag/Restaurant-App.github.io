@@ -1,0 +1,42 @@
+.form {
+    height: 80%;
+    width: 80%;
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    border-radius: 25px;
+    margin-top: 70px;
+    opacity: 0.8;
+}
+
+.txt {
+    color: #fff;
+    font-weight: 400;
+
+    font-family: 'Caveat', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.first-txt {
+    background-color: #5C8B9D;
+    opacity: 0.8;
+    margin-top: 100px;
+    margin-right: 0;
+    box-sizing: border-box;
+    position: absolute;
+    right: 0px;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+.second-txt {
+    background-color: #5C8B9D;
+    opacity: 0.8;
+    margin-top: 400px;
+    position: absolute;
+    right: 0px;
+    border-radius: 10px;
+    padding: 5px;
+
+}
